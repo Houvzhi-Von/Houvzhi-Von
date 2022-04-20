@@ -13,10 +13,11 @@
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://cn.vuejs.org/" target="_blank"> <img src="https://cn.vuejs.org/images/logo.svg" alt="vue" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://taro-docs.jd.com/taro/docs" target="_blank"> <img src="https://img20.360buyimg.com/ling/jfs/t1/20876/36/12835/3043/5c9c2929Ed18cfb11/15b1c03ec830ab8e.png" alt="taro" width="100" height="40"/></a>
 </p>
 <br/>
 

@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/20725033?v=4" width="245px" height="245px"/>
-
 ### Houvzhi-Von 👋
 
 > ** 🚀🚀🚀  生而为人，还是要有所敬畏 🚀🚀🚀 **

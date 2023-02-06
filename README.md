@@ -22,7 +22,7 @@
 </p>
 <br/>
 
-- 🌱 现在的我: 闲余时间投身摄影，最近在开发摄影社区小程序 「 敬请期待.... 」
+- 🌱 现在的我: 闲余时间投身摄影...
 - 🧩 技术社区: [智镜智言](https://houvzhi-von.github.io)
 - 💬 微信公众号:「 智镜智言 」, 欢迎大家前来关注
 <img src="http://blog.osnooker.com/uploads/weixin_1.jpg"/>
